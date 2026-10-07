@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+tarifs.db
+cache/
+archives/
+fiches/

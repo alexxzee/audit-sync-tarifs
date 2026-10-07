@@ -1,0 +1,9 @@
+reference;libelle;prix_ht;remise;fiche_url;fiche_nom
+VIS-INOX-6X60;Vis inox 6x60, boîte de 100;18.90;5;https://portail.materiaux-riviere.example/fiches/vis-inox-6x60.pdf;vis-inox-6x60.pdf
+CHEV-MOL-8;Chevilles Molly 8 mm, boîte de 50;24.50;5;;
+PLAQ-BA13;Plaque de plâtre BA13 2,5 m;9.80;0;https://portail.materiaux-riviere.example/fiches/plaq-ba13.pdf;plaq-ba13.pdf
+RAIL-R48;Rail R48 3 m;4.35;10;;
+LAINE-R5;Laine de verre R5, rouleau;42.00;8;https://portail.materiaux-riviere.example/fiches/laine-r5.pdf;laine-r5.pdf
+PANN-OSB-18;Panneau OSB 18 mm;21.40;0;;
+TUBE-PER-16;Tube PER 16 mm, couronne 50 m;56.90;5;;
+CABLE-R2V-3G25;Câble R2V 3G2,5, 50 m;89.00;3;https://portail.materiaux-riviere.example/fiches/cable-r2v-3g25.pdf;cable-r2v-3g25.pdf
